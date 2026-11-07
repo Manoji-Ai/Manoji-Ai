@@ -1,5 +1,12 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=Manoji-Ai&color=blue&style=flat-square)
 
+## 📊 GitHub Statistics
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Manoji-Ai&show_icons=true&theme=tokyonight)
+
+## 💻 Most Used Languages
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Manoji-Ai&layout=compact&theme=tokyonight)
 ## Hi there 👋
 
 <!--
